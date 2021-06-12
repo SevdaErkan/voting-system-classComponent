@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+div .winner {
+  border-color: red;
+}
+.team {
+  border: 1px solid;
+  width: 30%;
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+button {
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+p {
+  border-top: 1px solid;
+  padding-top: 5px;
+}
